@@ -1,0 +1,20 @@
+alias p="cd ~/projects"
+alias ls="ls -GFh"
+alias ll="ls -aGFh"
+alias home="cd ~"
+alias up="cd ../"
+alias grep="grep --color=always"
+alias ppath="echo $PATH | tr -s ':' '\n'"
+
+
+### project aliases ###
+
+
+# reddit #
+
+alias gifts="cd ~/redditgifts/gifts; workon redditgifts"
+
+
+
+# newmoto #
+alias newmoto="cd ~/projects/meteorStuff/microscope"
